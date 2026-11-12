@@ -1,260 +1,260 @@
 {
-  "generated": "2026-11-11T13:14:58.465Z",
+  "generated": "2026-11-12T14:17:39.139Z",
   "articles": [
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/redesigning-source-control",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/harness-design-long-running-apps",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/how-we-contain-claude",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/april-23-postmortem",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/managed-agents",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/claude-code-auto-mode",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/eval-awareness-browsecomp",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/building-c-compiler",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/infrastructure-noise",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/advanced-tool-use",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/code-execution-with-mcp",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/claude-code-sandboxing",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/a-postmortem-of-three-recent-issues",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/writing-tools-for-agents",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/desktop-extensions",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/confidential-inference-trusted-vms",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/multi-agent-research-system",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Anthropic Engineering",
       "url": "https://www.anthropic.com/research/claude-code-best-practices",
-      "scraped_at": "2026-11-11T13:14:58.210Z"
+      "scraped_at": "2026-11-12T14:17:38.929Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/announcements",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/s1-sec",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/features",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/roadshow-launch",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.138Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/partnerships",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/product",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/policy",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/safeguards",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/distillation-defenses",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/security",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     },
     {
       "blog": "Claude Blog",
       "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "scraped_at": "2026-11-11T13:14:58.465Z"
+      "scraped_at": "2026-11-12T14:17:39.139Z"
     }
   ]
 }
